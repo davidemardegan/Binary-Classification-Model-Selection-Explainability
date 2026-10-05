@@ -2,6 +2,8 @@
 
 Individual university project completed for **Mathematical Modelling for Machine Learning** at Bocconi University (2026).
 
+**Project files:** [Jupyter notebook](./MLpersonalproject_mardegan.ipynb) · [HTML report](./MLpersonalproject_mardegan.html) · [PDF report](./MLpersonalproject_mardegan.pdf)
+
 ## Overview
 
 This project develops and evaluates a complete machine-learning workflow for **binary classification** on mixed numerical and categorical tabular data.
